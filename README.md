@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HridyaVerma
-![GitHub Snake(https://raw.githubusercontent.com/HridyaVerma/HridyaVerma/output/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/HridyaVerma/HridyaVerma/output/snake.svg)
 - 👀 I’m interested in everything related to tech( no question asked)
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
