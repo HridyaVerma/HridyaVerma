@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @HridyaVerma![GitHub Snake Light](https://raw.githubusercontent.com/HridyaVerma/HridyaVerma/output/snake.svg#gh-light-mode-only)
+- 👋 Hi, I’m @HridyaVerma
+![GitHub Snake Light](https://raw.githubusercontent.com/HridyaVerma/HridyaVerma/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/HridyaVerma/HridyaVerma/output/snake-dark.svg#gh-dark-mode-only)
 - 👀 I’m interested in everything related to tech( no question asked)
 - 🌱 I’m currently learning Javascript
