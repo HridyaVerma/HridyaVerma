@@ -18,6 +18,9 @@ jobs:
         with:
           github_user_name: hridyaverma  # 👈 replace with your GitHub username
           outputs: dist/snake.svg
+          color_snake: "#00FF88"
+          color_dots: "#39FF14"
+          color_bg: "#000000"
 
       - name: Push the snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
