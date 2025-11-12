@@ -11,7 +11,7 @@
 - 👀 Interested in **everything tech — no questions asked!**
 - 🌱 Currently learning **JavaScript** and exploring **AI + IoT + System Design**
 - 💞️ Always open to collaborate on **AI, Web, or Automation** projects
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hridya-verma)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hridya-verma-b6187a282/)
 - ⚡ Fun fact: *I don’t just code... I debug life like Tony Stark.*
 
 ---
