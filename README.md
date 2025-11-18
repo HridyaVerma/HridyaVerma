@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey there, I'm Hridya Verma ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tech+Explorer+💻;AI+and+IoT+Innovator+🤖;Full+Stack+Learner+🚀;Inspired+by+Iron+Man+🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=System+Design+💻;AI+and+IoT+Innovator+🤖;Full+Stack+Learner+🚀;Inspired+by+Iron+Man+🔥" alt="Typing Animation" />
 </p>
 
 ---
