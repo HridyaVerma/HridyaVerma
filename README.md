@@ -1,96 +1,228 @@
-<h1 align="center">✨ Hey there, I'm Hridya Verma ✨</h1>
+<h1 align="center">⚡ Hey, I'm Hridya Verma ⚡</h1>
+
+<h3 align="center">
+Software Engineer • AI Builder • System Design Enthusiast • Future Founder 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=System+Design+💻;AI+and+IoT+Innovator+🤖;Full+Stack+Learner+🚀;Inspired+by+Iron+Man+🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Sys.Design+🚀;Java+Developer+☕;AI+%2B+System+Design+Enthusiast;Full+Stack+Developer;Future+Tech+Founder+⚡;Always+Learning.+Always+Building." alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HridyaVerma&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-
-- 👀 Interested in **everything tech — no questions asked!**
-- 🌱 Currently learning **JavaScript** and exploring **AI + IoT + System Design**
-- 💞️ Always open to collaborate on **AI, Web, or Automation** projects
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hridya-verma-b6187a282/)
-- ⚡ Fun fact: *I don’t just code... I debug life like Tony Stark.*
-
----
-<p>
-  <img width="45%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ5ZmxqeDZwNmt3Z3NwdzlrYmM5cXh6aXFhN2cwd2xpOTh3c21yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Iron Man GIF" />
-<img width="45%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd3eGZvMWFtc21mbXgxcmxvNmthcWlzOXpobWtpcWR1OW5jMjYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Iron Man GIF" />
-
-</p>
-
-### 🧠 My Tech Arsenal
-
-| 💻 Programming | 🌐 Web & Tools | 🤖 AI & Data |
-|----------------|----------------|--------------|
-| Java ☕ | HTML | Python 🐍 | Git & GitHub 🧭 |
-| JavaScript ⚡ | CSS / Tailwind | TensorFlow / Keras|
-| C++ 🚀 | React / Next.js | OpenCV |
-
-### 🧠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,flask,tensorflow,opencv,git,github,html,css,vscode" />
+  <img width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img width="45%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 👋 About Me
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🚦 **Smart Traffic Management System** | Detects vehicles, accidents & gives green corridor to ambulances using AI + IoT | YOLOv8, Arduino, RFID, Power BI |
-| 🎭 **Deepfake Detection App** | Detects fake videos & images with live camera support | Flask, React, TensorFlow |
-| 🤖 **Jarvis Assistant (Mac)** | Gesture + voice-based AI assistant inspired by Iron Man | Python, MediaPipe, AppleScript |
+I'm a Computer Science student who loves building things that make people say:
+
+> **"Wait... that's actually pretty cool."**
+
+Whether it's AI systems, scalable architectures, automation tools, startup ideas, or random midnight experiments, I'm usually building something.
+
+```yaml
+name: Hridya Verma
+role: Software Engineer & Builder
+language: Java
+interests:
+  - System Design
+  - Artificial Intelligence
+  - Full Stack Development
+  - Startups
+  - Computer Vision
+current_mission:
+  Building products that solve real-world problems.
+```
+
+- 🚀 Founder & Builder of **Sys.Design**
+- 🧠 Passionate about **System Design & Backend Engineering**
+- 🤖 Building AI-powered applications
+- 💻 Strong focus on **Java + DSA**
+- 🏆 Multiple Hackathon Finalist
+- 🎓 GATE CS Qualified
+- 🌟 Microsoft Dronacharya Community Co-Lead (ML)
+- ⚡ Turning ideas into products and products into impact
 
 ---
 
-### 🪄 Fun Stuff
+## 📡 Current Status
+
+```text
+🟢 Building Sys.Design
+🟢 Learning Advanced System Design
+🟢 Practicing DSA Daily
+🟢 Exploring AI Applications
+🟢 Open For Collaborations
+🟢 Probably Debugging Something Right Now ☕
+```
+
+---
+
+## ⚔️ Engineering Philosophy
+
+> **"Great software isn't written. It's designed."**
+
+---
+
+## 🤝 Looking To Collaborate On
+
+- 🚀 Startup Ideas
+- 🤖 AI Projects
+- 🌐 Full Stack Applications
+- 📦 Open Source Projects
+- 🏗️ System Design Simulators
+- 💡 Innovative Tech Products
+
+If you're building something exciting, feel free to reach out!
+
+---
+
+## 🛠 Tech Arsenal
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,python" />
 </p>
 
-> “If you’re not building something futuristic, are you even coding?” — Hridya ⚡  
-
----
-
-### 📊 GitHub Stats
+### 🌐 Frontend
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HridyaVerma&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=HridyaVerma&theme=tokyonight&hide_border=false" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-<!-- Custom image beside stats -->
+### ⚙️ Backend & Databases
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridyaVerma&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,supabase" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- OpenCV
+- YOLOv8
+- Keras
+- Computer Vision
+
+### 🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🐍 The Snake (Still Alive 🐍)
+## 🚀 Featured Projects
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/HridyaVerma/HridyaVerma/output/snake.svg)
+| 🚀 Project | 📖 Description | ⚙️ Tech Stack |
+|------------|---------------|---------------|
+| **Sys.Design** | Interactive platform for learning System Design visually | React, TypeScript, Supabase |
+| **Smart Traffic Management System** | AI-powered vehicle detection with ambulance priority system | YOLOv8, RFID, Arduino, Power BI |
+| **Deepfake Detection Platform** | Real-time deepfake image & video detection | Flask, React, TensorFlow |
+| **Jarvis Assistant** | Gesture + Voice Controlled AI Assistant | Python, MediaPipe, AppleScript |
+| **Digital Proof-of-Purchase** | Secure QR-based retail verification system | UPI, QR Security |
 
 ---
 
+## 🎮 Developer Profile
+
+```yaml
+name: Hridya Verma
+class: Builder
+level: 21
+weapon: Java ☕
+special_skill: Turning ideas into projects
+current_quest: Crack placements + build a startup
+side_mission: Making System Design fun
+```
+
+---
+
+## 🏆 Achievements
+
+- 🏅 GATE CS Qualified
+- 🚀 Founder of Sys.Design
+- 🏆 4× Hackathon Finalist
+- 🎓 IDE Bootcamp Finalist
+- 🌟 Microsoft Dronacharya Community Co-Lead
+- 💻 Active DSA & System Design Learner
+
+---
+
+## ⚡ Fun Facts
+
+- ☕ Coffee improves debugging performance by 200%
+- 🤖 I tried building my own Jarvis
+- 🌙 Most project ideas arrive after midnight
+- 🏗️ I enjoy designing systems as much as coding them
+- 🚀 I love turning crazy ideas into working prototypes
 
 
-### 💬 Connect with Me
+## 🎯 2026 Goals
+
+- ✅ Become Exceptional at DSA
+- ✅ Master System Design
+- ✅ Scale Sys.Design
+- ✅ Build Impactful AI Products
+- ✅ Crack Top Software Engineering Roles
+- ✅ Launch a Successful Startup
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hridya-verma-b6187a282/"><img src="https://img.shields.io/badge/LinkedIn-Hridya%20Verma-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:hridyavermadgi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://bento.me/hridyaverma">
-  <img src="https://img.shields.io/badge/Bento.me-Hridya%20Verma-1A1B27?style=for-the-badge&logo=bento&logoColor=00FFFF" />
+
+<a href="https://www.linkedin.com/in/hridya-verma-b6187a282/">
+<img src="https://img.shields.io/badge/LinkedIn-Hridya%20Verma-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
+<a href="mailto:hridyavermadgi@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://bento.me/hridyaverma">
+<img src="https://img.shields.io/badge/Bento-Hridya%20Verma-1A1B27?style=for-the-badge" />
+</a>
+
 </p>
 
 ---
 
+## 💭 Current Mindset
+
+```java
+while(!success) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+---
+
 <p align="center">
-  <b>💬 “I don’t just build projects. I build possibilities.” 💬</b>
+  <img src="https://github-profile-trophy.vercel.app/?username=HridyaVerma&theme=tokyonight&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+Learning.;Always+Building.;Always+Curious.;Let's+Build+Something+Awesome+Together." />
+</p>
+
+<p align="center">
+  <b>⚡ Building Today. Scaling Tomorrow. 🚀</b>
 </p>
